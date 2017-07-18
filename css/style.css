@@ -11,7 +11,15 @@ body {
 
 
 
-h3 {
+h3 { 
       color: #2E2E2E;
 }
 
+img {
+  
+    display: block;
+    margin: auto;
+    height: 600px;
+    wiidth: 800px;
+ 
+} 
